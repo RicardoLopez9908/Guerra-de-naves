@@ -4,7 +4,7 @@ Opcional: multijugador
 Se trata de un juego con tematica de naves, en la cual debemos eliminar la mayor cantidad de naves posible. 
 Funciones del juego:
 
--Tres posibilidades de dificultad dentro del codigo(facil, medio, dificil).\n
+-Tres posibilidades de dificultad dentro del codigo(facil, medio, dificil).
 -Sonido incorporado.
 -Opcion multijugador a eleccion del usuario.
 -Contador de puntos individual.
