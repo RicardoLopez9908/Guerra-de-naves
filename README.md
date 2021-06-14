@@ -1,6 +1,6 @@
 # Guerra-de-naves
 
-__Se trata de un juego con tematica de naves, en la cual debemos eliminar la mayor cantidad de naves posible.__
+__Se trata de un juego con tematica de naves, en la cual debemos eliminar la mayor cantidad de naves posible que nos aparezcan. Nos encontramos al comienzo con una pantalla inicial, en la cual debemos indicar nuestras preferencias de juego y una pantalla final, en la que el juego nos indicara nuestros resultados__
 
 ## Funciones del juego:
 
